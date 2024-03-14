@@ -26,7 +26,8 @@
     "alefragnani.project-manager",
     "mutantdino.resourcemonitor",
     "bradlc.vscode-tailwindcss",
-    "meganrogge.template-string-converter"
+    "meganrogge.template-string-converter",
+    "sbg.auto-version-increment"
   ],
   "repository": {
     "type": "git",
