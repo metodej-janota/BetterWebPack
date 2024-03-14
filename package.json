@@ -4,7 +4,7 @@
   "description": "A collection of useful extensions for Visual Studio Code to enhance your web development workflow.",
   "publisher": "janotametodej",
   "icon": "icon.png",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.87.0"
   },
