@@ -28,6 +28,8 @@ A collection of useful extensions for Visual Studio Code to enhance your web dev
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
 - [Auto Version Increment](https://marketplace.visualstudio.com/items?itemName=sbg.auto-version-increment)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 
 ## Contributing
 

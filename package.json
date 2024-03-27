@@ -4,7 +4,7 @@
   "description": "A collection of useful extensions for Visual Studio Code to enhance your web development workflow.",
   "publisher": "janotametodej",
   "icon": "icon.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -27,7 +27,9 @@
     "mutantdino.resourcemonitor",
     "bradlc.vscode-tailwindcss",
     "meganrogge.template-string-converter",
-    "sbg.auto-version-increment"
+    "sbg.auto-version-increment",
+    "ms-azuretools.vscode-docker",
+    "bierner.markdown-preview-github-styles"
   ],
   "repository": {
     "type": "git",
